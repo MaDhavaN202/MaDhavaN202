@@ -2,7 +2,6 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#
 - 📫 Reach me on Instagram _madhavan._l 
-- 😄 Pronouns: Maddy
 - ⚡ Fun fact: I'm just a beginner
 
 <!---
